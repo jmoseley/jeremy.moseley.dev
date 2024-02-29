@@ -2,8 +2,8 @@
 	"name": "jeremy.moseley.dev",
 	"version": "1.0.0",
 	"scripts": {
-		"start": "npx @11ty/eleventy --serve & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --watch",
-		"build": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/style.css --minify",
+		"start": "npx @11ty/eleventy --serve & npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/css/style.css --watch",
+		"build": "ELEVENTY_PRODUCTION=true npx @11ty/eleventy && NODE_ENV=production npx tailwindcss -i styles/tailwind.css -c styles/tailwind.config.js -o _site/css/style.css --minify",
 		"debug": "DEBUG=Eleventy* npx @11ty/eleventy",
 		"debugstart": "DEBUG=Eleventy* npx @11ty/eleventy --serve --quiet",
 		"benchmark": "DEBUG=Eleventy:Benchmark* npx @11ty/eleventy"

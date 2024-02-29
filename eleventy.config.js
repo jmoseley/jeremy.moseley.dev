@@ -23,6 +23,10 @@ module.exports = function (eleventyConfig) {
 
 	// Watch content images for the image pipeline.
 	eleventyConfig.addWatchTarget("content/**/*.{svg,webp,png,jpeg}");
+	eleventyConfig.addWatchTarget("public/**/*.{css}");
+
+	eleventyConfig.addWatchTarget("./styles/tailwind.config.js");
+	eleventyConfig.addWatchTarget("./styles/tailwind.css");
 
 	// App plugins
 	eleventyConfig.addPlugin(pluginDrafts);
