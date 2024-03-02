@@ -25,7 +25,7 @@ There is one small problem though. I don't really know where to start, and I am 
 
 I did a bit of brainstorming about what I would like to build (as opposed to what I _should_ build, which is what I do at work all day long). I've always had this idea of a mostly simple top-down tank game, where you just drive around and blow stuff up basically. I think I can handle that. I'm not sure how to handle the art, but I'll figure that out later I guess.
 
-I wrote some stuff by hand, check it out <a class="underline" href="#sketches">at the bottom</a>.
+I wrote some stuff by hand, check it out [at the bottom](#sketches).
 
 ## What did I do today?
 
@@ -33,7 +33,7 @@ I found [Godot](https://godotengine.org/). I listened to [a single podcast on th
 
 ## Sketches
 
-{% image "./Tanks of Fury - page 1.png", "A sketch!" %}
-{% image "./Tanks of Fury - page 2.png", "A sketch!" %}
-{% image "./Tanks of Fury - page 3.png", "A sketch!" %}
-{% image "./Tanks of Fury - page 4.png", "A sketch!" %}
+{% image "./Tanks of Fury - page 1.png", "A sketch!", "400", "400" %}
+{% image "./Tanks of Fury - page 2.png", "A sketch!", "400", "400" %}
+{% image "./Tanks of Fury - page 3.png", "A sketch!", "400", "400" %}
+{% image "./Tanks of Fury - page 4.png", "A sketch!", "400", "400" %}
