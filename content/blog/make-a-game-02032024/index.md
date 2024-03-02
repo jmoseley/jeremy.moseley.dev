@@ -1,6 +1,5 @@
 ---
 title: "Journal: A CRUD developer builds a game"
-slug: "make-a-game-journal-02032024"
 date: 2024-03-02
 tags:
   - game-development
