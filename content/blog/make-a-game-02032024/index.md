@@ -70,4 +70,3 @@ func _process(delta):
 ## Demo
 
 <iframe src="/tanks-of-fury/builds/02032024" width="480" height="720"></iframe>
-```
