@@ -5,6 +5,7 @@ tags:
   - game-development
   - learning
   - wtf-am-i-doing
+  - godot
   - brainstorming
 ---
 
