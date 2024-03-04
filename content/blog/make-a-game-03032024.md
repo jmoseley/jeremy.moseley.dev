@@ -75,6 +75,8 @@ The "shoot" signal is emitted from the turret, and the main scene listens for it
 
 ## Demo
 
+Click [here](/tanks-of-fury/builds/03032024) on mobile to play.
+
 WASD or arrows to move, or click/touch to move.
 
 <iframe src="/tanks-of-fury/builds/03032024" width="480" height="720"></iframe>

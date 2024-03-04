@@ -69,4 +69,6 @@ func _process(delta):
 
 ## Demo
 
+Click [here](/tanks-of-fury/builds/02032024) to play the game.
+
 <iframe src="/tanks-of-fury/builds/02032024" width="480" height="720"></iframe>
