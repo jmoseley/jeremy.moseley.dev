@@ -12,6 +12,8 @@ tags:
 
 Now the turret moves, and bullets shoot. Random enemies drive across the screen, and the turret tracks the closest one. Copilot helped with some of the finicky angle math (I always struggle with that).
 
+I also added the ability for bullets to damage enemies, and I added mouse/touch controls for movement. This makes it "playable" on mobile.
+
 [Check it out](#demo).
 
 Here is the interesting bits of code for tracking the enemy and aiming the turret:
@@ -68,11 +70,11 @@ The "shoot" signal is emitted from the turret, and the main scene listens for it
 
 ## Next steps
 
-- Have the bullets damage the enemies
 - Have the enemies shoot at the player
+- Add some egregious explosions
 
 ## Demo
 
-WASD or arrows to move.
+WASD or arrows to move, or click/touch to move.
 
-<iframe src="/tanks-of-fury/builds/03032024" width="480" height="720"></iframe>
+<iframe src="/tanks-of-fury/builds/03032024.2" width="480" height="720"></iframe>
