@@ -2,7 +2,7 @@
 title: "Journal: A CRUD developer builds a game"
 date: 2024-03-09
 tags:
-  - game-development
+  - game development
   - learning
   - godot
   - physics

@@ -2,10 +2,10 @@
 title: "Journal: A CRUD developer builds a game"
 date: 2024-03-02
 tags:
-  - game-development
+  - game development
   - learning
   - godot
-  - it-moves
+  - it moves
 ---
 
 ## What did I do today?

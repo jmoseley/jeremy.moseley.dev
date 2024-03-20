@@ -2,9 +2,9 @@
 title: "Journal: A CRUD developer builds a game"
 date: 2024-02-28
 tags:
-  - game-development
+  - game development
   - learning
-  - wtf-am-i-doing
+  - wtf am i doing
   - godot
   - brainstorming
 ---
