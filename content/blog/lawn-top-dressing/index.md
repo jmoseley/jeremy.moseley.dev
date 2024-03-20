@@ -7,8 +7,6 @@ tags:
   - lawn
 ---
 
-## Top Dressing
-
 Not all my posts will be about software. Last week I decided to try something new, and I top dressed my lawn. I've never done it before, and I don't think I read enough about it beforehand.
 
 Top dressing is when you spread a thin layer of soil over your lawn. The idea is that it will help fill in low spots, and it will help the grass grow better by reintroducing nutrients and organic matter to the soil.
