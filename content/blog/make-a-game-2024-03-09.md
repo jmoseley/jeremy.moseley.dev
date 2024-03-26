@@ -125,7 +125,7 @@ Things to note:
 
 ## Demo
 
-Click [here](/iron-fury/builds/09032024) to play.
+Click [here](/iron-fury/builds/2024-03-09) to play.
 
 WASD or arrows to move, or click/touch to move.
 

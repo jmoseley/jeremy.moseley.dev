@@ -32,6 +32,6 @@ Ooooh. I think I settled on a name. The working title was "Tanks of Fury", but t
 
 ## Demo
 
-Click [here](/iron-fury/builds/06032024) to play.
+Click [here](/iron-fury/builds/2024-03-06) to play.
 
 WASD or arrows to move, or click/touch to move.

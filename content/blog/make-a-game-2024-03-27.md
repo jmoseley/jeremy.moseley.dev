@@ -53,6 +53,6 @@ Use it by calling `add_trauma` with a value between 0.1 and 1.0. The higher the 
 
 ## Demo
 
-Click [here](/iron-fury/builds/07032024) to play.
+Click [here](/iron-fury/builds/2024-03-07) to play.
 
 WASD or arrows to move, or click/touch to move.

@@ -69,4 +69,4 @@ func _process(delta):
 
 ## Demo
 
-Click [here](/iron-fury/builds/02032024) to play the game.
+Click [here](/iron-fury/builds/2024-03-02) to play the game.
