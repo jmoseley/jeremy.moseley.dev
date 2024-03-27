@@ -107,11 +107,3 @@ A few improvements can be made to this effect:
 Click [here](/iron-fury/builds/2024-03-26) to play.
 
 Draw a path by pressing and dragging on the green tank.
-
-```
-
-```
-
-```
-
-```
