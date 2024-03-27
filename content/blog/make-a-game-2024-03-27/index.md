@@ -4,7 +4,6 @@ date: 2024-03-27
 tags:
   - game development
   - godot
-  - movement
   - press and drag
 ---
 
@@ -16,10 +15,10 @@ I got a basic version of the radial menu working. This is used to select power u
 
 ## What did I learn?
 
-- Used my first asset. I got a radial menu asset from the Godot Asset Library. It was pretty easy to use.
+- Used my first asset. I got a [radial menu asset](https://github.com/jesuisse/godot-radial-menu-control) from the Godot Asset Library. It was pretty easy to use.
 
 ## Demo
 
-Click [here](/iron-fury/builds/2024-03-26) to play.
+Click [here](/iron-fury/builds/2024-03-27) to play.
 
 Draw a path by pressing and dragging on the green tank.
