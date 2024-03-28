@@ -19,7 +19,7 @@ Today I switched the movement to use the physics engine. I think it feels a bit 
 
 One problem I ran into was that I wanted to add some knock back effects, so the player and enemies will get knocked back when they get hit. I solved this by tracking two different velocities (one movement velocity, and one velocity for "impulses"). Here is the code for the player that shows how I put it together:
 
-```python
+```gdscript
 func _process(delta):
 	var nearest_mob = null
 	var min_distance = INF

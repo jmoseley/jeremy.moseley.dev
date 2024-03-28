@@ -18,7 +18,7 @@ I also added the ability for bullets to damage enemies, and I added mouse/touch 
 
 Here is the interesting bits of code for tracking the enemy and aiming the turret:
 
-```python
+```gdscript
 var time_since_last_shot = 0
 # Called every frame. 'delta' is the elapsed time since the previous frame.
 func _process(delta):

@@ -26,7 +26,7 @@ Some things I learned today:
 
 Here is some code I wrote today to control the player:
 
-```python
+```gdscript
 extends Area2D
 
 export var speed = 400 # How fast the player will move (pixels/sec).

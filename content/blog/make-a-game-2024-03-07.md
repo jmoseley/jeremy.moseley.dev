@@ -14,7 +14,7 @@ It has reached a reasonable state. There is some UI, a life bar, score keeping, 
 
 Here is the code (thanks to [KidsCanCode](https://kidscancode.org/godot_recipes/3.x/2d/screen_shake/index.html)):
 
-```python
+```gdscript
 extends Camera2D
 
 export var decay = 0.7  # How quickly the shaking stops [0, 1].

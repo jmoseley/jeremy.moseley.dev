@@ -25,7 +25,7 @@ I also added a new weapon mechanic, an airstrike. This is a missile/bomb thingy 
 
 Here is the code I used to draw the path. In this code `$GhostPlayer` is a sprite that has the same texture as the player tank (a green tank body), and has `pause_mode = Node.PAUSE_MODE_PROCESS` so that it is redrawn on screen when its position changes. `$GhostCover` is a `ColorRect` overlay that is used to partially cover the screen while the user is drawing the path, to show that things are stopped. `$GhostPath` is a `Line2D` that is used to draw the path the user is drawing.
 
-```python
+```gdscript
 export var player_click_radius = 100
 var player_dragging = false
 
@@ -63,7 +63,7 @@ func _input(event):
 
 Here is the code I use for the player to follow the path. I use `move_and_slide` to move the player for two reasons: 1) it allows us to still get collisions, so if the user draws a path that goes through a wall, the player will stop at the wall, and 2) we can still include the knockback effect that I added in the last update.
 
-```python
+```gdscript
 func _physics_process(_delta):
 	position.x = wrapf(position.x, 0, screen_size.x)
 	position.y = wrapf(position.y, 0, screen_size.y)
