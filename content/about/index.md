@@ -7,4 +7,4 @@ eleventyNavigation:
 
 # About Me
 
-I am a person that writes stuff. I also do other things. Sometimes I write about those things. Sometimes I don't.
+I am a software engineer that enjoys building things. Most of my roles have been basically as a fullstack developer, but I just sort of work on whatever seems to be important and useful. I work across the stack, and most of my experience is at small to medium sized companies. Check out my [resume](/about/resume) for more details.
